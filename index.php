@@ -53,12 +53,12 @@ function bondJSON(data){
 	console.log(data);
 	//$("#output").text(JSON.stringify(data));
 	//this defines the type of info returned
-	$('#filmtitle').html(data.title)
+	$('#filmtitle').html(data.title);
 	$('#films').html('');
 
 	$.each(data.films,funtion(i,item){
 
-		let $str = bondTemplate(item);
+		let str = bondTemplate(item);
 		$('<div></div>').html(str).appendTo('#films');
 		
 	
