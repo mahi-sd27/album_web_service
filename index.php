@@ -59,7 +59,7 @@ function bondJSON(data){
 	//this defines the type of info returned
 	$('#filmtitle').html(data.title);
 	$('#films').html('');
-
+	/** 
 	$.each(data.films,function(i,item){
 
 		let str = bondTemplate(item);
@@ -67,7 +67,7 @@ function bondJSON(data){
 		
 	
 	});
-	
+	*/
 	let myData = JSON.stringify(data,null,4);
 	myData = '<pre>' + myData + '</pre>';
 	$("#output").html(myData);
