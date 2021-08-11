@@ -7,7 +7,7 @@
 				"Title":"All Eyes on Me",
 				"Sales":5000000,
 				"Genre":"Rap",
-				"Image":"tupac.jpg"
+				"Image":"tupac.jpg"//change it with title name
 			  },
               {
 				"Year":2006,
