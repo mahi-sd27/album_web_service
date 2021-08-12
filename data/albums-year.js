@@ -7,9 +7,9 @@
 				"Title":"All Eyes on Me",
 				"Sales":5000000,
 				"Genre":"Rap",
-				"Image":"all-eyes-on-me.jpg"//change it with title name
+				"Image":"all-eyes-on-me.jpg"
 			  },
-              {
+             /** {
 				"Year":2006,
                 "Artist":"Amy Winehouse",
 				"Title":"Back to Black",
@@ -41,7 +41,7 @@
 				"Genre":"Rap",
 				"Image":"ego-trip.jpg"
 			  }
-			 
+			 */ 
 			
 			  
 			]
