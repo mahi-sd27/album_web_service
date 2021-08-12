@@ -63,7 +63,7 @@ function bondJSON(data){
 	$.each(data.albums,function(i,item){
 
 		let str = bondTemplate(item);
-		$('<div></div>').html(str).appendTo('#film');
+		$('<div></div>').html(str).appendTo('#films');
 		
 	
 	});
