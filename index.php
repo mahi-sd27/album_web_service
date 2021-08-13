@@ -4,17 +4,17 @@
 <style>
 	body {font-family:georgia;}
 	.film{
-		border:1px solid #C1E8D4;
-		border-radius: 5px;
-		padding: 5px;
-		margin-bottom:5px;
+		border:10px solid #C1E8D4;
+		border-radius: 50px;
+		padding: 50px;
+		margin-bottom:50px;
 		position:relative;	
 	}
 
 	.pic{
 		position:absolute;
-		right:10px;
-		top:10px;
+		right:100px;
+		top:100px;
 	}
 
 </style>
