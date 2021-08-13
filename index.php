@@ -4,17 +4,17 @@
 <style>
 	body {font-family:georgia;}
 	.film{
-		border:10px solid #C1E8D4;
-		border-radius: 50px;
-		padding: 50px;
-		margin-bottom:50px;
+		border:2px solid #C1E8D4;
+		border-radius: 7px;
+		padding: 7px;
+		margin-bottom:7px;
 		position:relative;	
 	}
 
 	.pic{
 		position:absolute;
-		right:100px;
-		top:100px;
+		right:10px;
+		top:10px;
 	}
 
 </style>
@@ -112,6 +112,7 @@ function bondTemplate(album){
 			-->
 		</div>
 		
-		<div id="output">Results go here</div>
+		<!--<div id="output">Results go here</div>
+		-->
 	</body>
 </html>
