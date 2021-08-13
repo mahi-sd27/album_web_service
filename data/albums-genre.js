@@ -33,7 +33,7 @@
             "Title":"All Eyes on Me",
             "Sales":5000000,
             "Genre":"Rap",
-            "Image":"all-eyes-on-me.jpg"//change it with title name
+            "Image":"all-eyes-on-me.jpg"
           },
           {
             "Year":2017,
