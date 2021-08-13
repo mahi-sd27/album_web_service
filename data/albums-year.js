@@ -1,6 +1,6 @@
 {
-	"title"; "Albums by Year",
-	"albums";[
+	"title": "Albums by Year",
+	"albums":[
 			  {
 				"Year":1996,
                 "Artist":"Tupac Shakur",
@@ -9,7 +9,7 @@
 				"Genre":"Rap",
 				"Image":"all-eyes-on-me.jpg"
 			  },
-             /** {
+              {
 				"Year":2006,
                 "Artist":"Amy Winehouse",
 				"Title":"Back to Black",
@@ -41,7 +41,7 @@
 				"Genre":"Rap",
 				"Image":"ego-trip.jpg"
 			  }
-			 */ 
+			 
 			
 			  
 			]

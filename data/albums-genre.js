@@ -1,7 +1,7 @@
 {
-	"title"; "Albums By Genre",
+	"title": "Albums By Genre",
 	
-	"albums";[
+	"albums":[
          {
             "Year":2011,
             "Artist":"Drakes",
